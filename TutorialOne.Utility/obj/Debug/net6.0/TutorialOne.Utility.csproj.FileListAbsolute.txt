@@ -1,0 +1,12 @@
+E:\MyCode\TutorialOne\TutorialOne.Utility\bin\Debug\net6.0\TutorialOne.Utility.deps.json
+E:\MyCode\TutorialOne\TutorialOne.Utility\bin\Debug\net6.0\TutorialOne.Utility.dll
+E:\MyCode\TutorialOne\TutorialOne.Utility\bin\Debug\net6.0\TutorialOne.Utility.pdb
+E:\MyCode\TutorialOne\TutorialOne.Utility\obj\Debug\net6.0\TutorialOne.Utility.csproj.AssemblyReference.cache
+E:\MyCode\TutorialOne\TutorialOne.Utility\obj\Debug\net6.0\TutorialOne.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyCode\TutorialOne\TutorialOne.Utility\obj\Debug\net6.0\TutorialOne.Utility.AssemblyInfoInputs.cache
+E:\MyCode\TutorialOne\TutorialOne.Utility\obj\Debug\net6.0\TutorialOne.Utility.AssemblyInfo.cs
+E:\MyCode\TutorialOne\TutorialOne.Utility\obj\Debug\net6.0\TutorialOne.Utility.csproj.CoreCompileInputs.cache
+E:\MyCode\TutorialOne\TutorialOne.Utility\obj\Debug\net6.0\TutorialOne.Utility.dll
+E:\MyCode\TutorialOne\TutorialOne.Utility\obj\Debug\net6.0\refint\TutorialOne.Utility.dll
+E:\MyCode\TutorialOne\TutorialOne.Utility\obj\Debug\net6.0\TutorialOne.Utility.pdb
+E:\MyCode\TutorialOne\TutorialOne.Utility\obj\Debug\net6.0\ref\TutorialOne.Utility.dll

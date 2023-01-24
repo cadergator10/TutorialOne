@@ -1,0 +1,15 @@
+E:\MyCode\TutorialOne\TutorialOne.DataAccess\obj\Debug\net6.0\TutorialOne.DataAccess.csproj.AssemblyReference.cache
+E:\MyCode\TutorialOne\TutorialOne.DataAccess\obj\Debug\net6.0\TutorialOne.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyCode\TutorialOne\TutorialOne.DataAccess\obj\Debug\net6.0\TutorialOne.DataAccess.AssemblyInfoInputs.cache
+E:\MyCode\TutorialOne\TutorialOne.DataAccess\obj\Debug\net6.0\TutorialOne.DataAccess.AssemblyInfo.cs
+E:\MyCode\TutorialOne\TutorialOne.DataAccess\obj\Debug\net6.0\TutorialOne.DataAccess.csproj.CoreCompileInputs.cache
+E:\MyCode\TutorialOne\TutorialOne.DataAccess\bin\Debug\net6.0\TutorialOne.DataAccess.deps.json
+E:\MyCode\TutorialOne\TutorialOne.DataAccess\bin\Debug\net6.0\TutorialOne.DataAccess.dll
+E:\MyCode\TutorialOne\TutorialOne.DataAccess\bin\Debug\net6.0\TutorialOne.DataAccess.pdb
+E:\MyCode\TutorialOne\TutorialOne.DataAccess\bin\Debug\net6.0\TutorialOne.Models.dll
+E:\MyCode\TutorialOne\TutorialOne.DataAccess\bin\Debug\net6.0\TutorialOne.Models.pdb
+E:\MyCode\TutorialOne\TutorialOne.DataAccess\obj\Debug\net6.0\TutorialOne.DataAccess.csproj.CopyComplete
+E:\MyCode\TutorialOne\TutorialOne.DataAccess\obj\Debug\net6.0\TutorialOne.DataAccess.dll
+E:\MyCode\TutorialOne\TutorialOne.DataAccess\obj\Debug\net6.0\refint\TutorialOne.DataAccess.dll
+E:\MyCode\TutorialOne\TutorialOne.DataAccess\obj\Debug\net6.0\TutorialOne.DataAccess.pdb
+E:\MyCode\TutorialOne\TutorialOne.DataAccess\obj\Debug\net6.0\ref\TutorialOne.DataAccess.dll

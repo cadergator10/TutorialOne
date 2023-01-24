@@ -1,0 +1,12 @@
+E:\MyCode\TutorialOne\TutorialOne.Models\bin\Debug\net6.0\TutorialOne.Models.deps.json
+E:\MyCode\TutorialOne\TutorialOne.Models\bin\Debug\net6.0\TutorialOne.Models.dll
+E:\MyCode\TutorialOne\TutorialOne.Models\bin\Debug\net6.0\TutorialOne.Models.pdb
+E:\MyCode\TutorialOne\TutorialOne.Models\obj\Debug\net6.0\TutorialOne.Models.csproj.AssemblyReference.cache
+E:\MyCode\TutorialOne\TutorialOne.Models\obj\Debug\net6.0\TutorialOne.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyCode\TutorialOne\TutorialOne.Models\obj\Debug\net6.0\TutorialOne.Models.AssemblyInfoInputs.cache
+E:\MyCode\TutorialOne\TutorialOne.Models\obj\Debug\net6.0\TutorialOne.Models.AssemblyInfo.cs
+E:\MyCode\TutorialOne\TutorialOne.Models\obj\Debug\net6.0\TutorialOne.Models.csproj.CoreCompileInputs.cache
+E:\MyCode\TutorialOne\TutorialOne.Models\obj\Debug\net6.0\TutorialOne.Models.dll
+E:\MyCode\TutorialOne\TutorialOne.Models\obj\Debug\net6.0\refint\TutorialOne.Models.dll
+E:\MyCode\TutorialOne\TutorialOne.Models\obj\Debug\net6.0\TutorialOne.Models.pdb
+E:\MyCode\TutorialOne\TutorialOne.Models\obj\Debug\net6.0\ref\TutorialOne.Models.dll
